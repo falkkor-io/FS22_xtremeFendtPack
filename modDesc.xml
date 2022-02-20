@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="63">
+    <author>Falkkor</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Xtreme Fendt Pack</en>
+    </title>
+    <description>
+        <en><![CDATA[This mod pack for Farming Simulator 22 features your favorite Fendt machinery but now enhanced with eXtra power, eXtreme speed and eXciting performance! 
+
+        All store items in this mod feature: 
+            - Double the lifespan for durability (titanium components)
+            - Adjusted pricing for realism (turbos ain't cheap)
+            - Highest quality 3D models for configuration (see credits)
+            - Realistic Power/Torque Curves, Gear Ratios and Speeds (see credits)
+        
+        Favorit 515CX: 
+            - 250 HP / 220 KW
+            - 832 LB-FT / 1129 NM
+            - 46 MPH / 75 KPH 
+            - $175,000 USD
+
+        Vario 211VX: 
+            - 200 HP / 147 KW 
+            - 631 LB-FT / 856 NM 
+            - 46 MPH / 75 KPH 
+            - $150,000 USD 
+
+        Vario 314X: 
+            - 300 HP / 220 KW
+            - 832 LB-FT / 1129 NM
+            - 46 MPH / 75 KPH
+            - $175,000 USD
+
+        Vario 724X:
+            - 600 HP / 440 KW 
+            - 1664 LB-FT / 2258 NM 
+            - 46 MPH / 75 KPH 
+            - $275,000 USD 
+
+        Vario 942X: 
+            - 900 HP / 660 KW 
+            - 2496 LB-FT / 3387 NM 
+            - 46 MPH / 75 KPH 
+            - $375,000 USD
+
+        Vario 1050X:
+            - 1200 HP / 894 KW 
+            - 4899 LB-FT / 6642 NM 
+            - 46 MPH / 75 KPH 
+            - $425,000 USD
+
+        Vario 943MTX:
+            - 900 HP / 660 KW 
+            - 2496 LB-FT / 3387 NM 
+            - 46 MPH / 75 KPH 
+            - $475,000 USD
+
+        Vario 1167MTX: 
+            - 1200 HP / 894 KW 
+            - 4899 LB-FT / 6642 NM 
+            - 46 MPH / 75 KPH 
+            - $525,000 USD
+
+        Ideal 10TX: 
+            - 900 HP / 660 KW 
+            - 2496 LB-FT / 3387 NM 
+            - 31 MPH / 50 KPH
+            - 25,000 Liter Capacity
+            - Doubled Unload Speed  
+            - $675,000 USD
+
+        PowerFlow 12X:
+            - 15 MPH / 25 KPH 
+            - $100,000 USD
+
+        DynaFlex 9255X:
+            - 15 MPH / 25 KPH 
+            - $100,000 USD
+
+        Diamant 12X: 
+            - 16 MPH / 25 KPH
+            - $125,000 USD
+
+        Helianthus 12000X: 
+            - 16 MPH / 25 KPH
+            - $125,000 USD
+
+        Katana 650X: 
+            - 900 HP / 660 KW 
+            - 2496 LB-FT / 3387 NM 
+            - 31 MPH / 50 KPH
+            - $475,000 USD
+
+        Credits: 
+            - GIANTS Software - https://farming-simulator.com/ 
+            
+        Contact:
+            - info@falkkor.io 
+            - https://falkkor.io]]></en>
+    </description>
+    <iconFilename>store_xtremefendtpack.png</iconFilename>
+    <multiplayer supported="true" />
+    <storeItems>
+        <storeItem xmlFilename="vehicles/favorit515CX.xml"/>
+        <storeItem xmlFilename="vehicles/vario211VX.xml"/>
+        <storeItem xmlFilename="vehicles/vario314X.xml"/>
+        <storeItem xmlFilename="vehicles/vario742X.xml"/>
+        <storeItem xmlFilename="vehicles/vario942X.xml"/>
+        <storeItem xmlFilename="vehicles/vario1050X.xml"/>
+        <storeItem xmlFilename="vehicles/vario943MTX.xml"/>
+        <storeItem xmlFilename="vehicles/vario1167MTX.xml"/>
+        <storeItem xmlFilename="vehicles/katana650X.xml"/>
+        <storeItem xmlFilename="vehicles/ideal10TX.xml"/>
+        <storeItem xmlFilename="vehicles/powerFlow12X.xml"/>
+        <storeItem xmlFilename="vehicles/dynaFlex9255X.xml"/>
+        <storeItem xmlFilename="vehicles/diamant12X.xml"/>
+        <storeItem xmlFilename="vehicles/helianthus12000X.xml"/>
+    </storeItems>
+</modDesc>
