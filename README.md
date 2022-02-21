@@ -1,5 +1,12 @@
 ## This mod pack for Farming Simulator 22 features your favorite Fendt machinery but now enhanced with eXtra power, eXtreme speed and eXciting performance! 
 
+![Xtreme Fendt Pack Screenshot 1](/screenshots/xtreme_fendt_screen1.jpg)
+![Xtreme Fendt Pack Screenshot 2](/screenshots/xtreme_fendt_screen2.jpg)
+![Xtreme Fendt Pack Screenshot 3](/screenshots/xtreme_fendt_screen3.jpg)
+![Xtreme Fendt Pack Screenshot 4](/screenshots/xtreme_fendt_screen4.jpg)
+![Xtreme Fendt Pack Screenshot 5](/screenshots/xtreme_fendt_screen5.jpg)
+![Xtreme Fendt Pack Screenshot 6](/screenshots/xtreme_fendt_screen6.jpg)
+
 ```
 All store items in this mod feature: 
     - Double the Lifespan for Durability with Titanium Components
@@ -84,7 +91,9 @@ Katana 650X:
     - 2496 LB-FT / 3387 NM 
     - 31 MPH / 50 KPH
     - $475,000 USD
+```
 
+```
 Changelog:
     - v1.0.0.0 
         - GitHub Release
