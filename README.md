@@ -1,4 +1,7 @@
-## This mod pack for Farming Simulator 22 features your favorite Fendt machinery but now enhanced with eXtra power, eXtreme speed and eXciting performance! 
+# Xtreme Fendt Pack
+### This mod pack for Farming Simulator 22 features your favorite Fendt machinery but now enhanced with eXtra power, eXtreme speed and eXciting performance! 
+
+#### Latest version can be downloaded here: [v1.0.0.0](https://falkkor.io/FS22_xtremeFendtPack.zip)
 
 ![Xtreme Fendt Pack Screenshot](/screenshots/xtreme_fendt_screen1.jpg)
 
