@@ -1,11 +1,11 @@
 ## This mod pack for Farming Simulator 22 features your favorite Fendt machinery but now enhanced with eXtra power, eXtreme speed and eXciting performance! 
 
-<img src="/screenshots/xtreme_fendt_screen1.jpg" width="100">
-![Xtreme Fendt Pack Screenshot 2](/screenshots/xtreme_fendt_screen2.jpg)
-![Xtreme Fendt Pack Screenshot 3](/screenshots/xtreme_fendt_screen3.jpg)
-![Xtreme Fendt Pack Screenshot 4](/screenshots/xtreme_fendt_screen4.jpg)
-![Xtreme Fendt Pack Screenshot 5](/screenshots/xtreme_fendt_screen5.jpg)
-![Xtreme Fendt Pack Screenshot 6](/screenshots/xtreme_fendt_screen6.jpg)
+<img src="/screenshots/xtreme_fendt_screen1.jpg" width="300">
+<img src="/screenshots/xtreme_fendt_screen2.jpg" width="300">
+<img src="/screenshots/xtreme_fendt_screen3.jpg" width="300">
+<img src="/screenshots/xtreme_fendt_screen4.jpg" width="300">
+<img src="/screenshots/xtreme_fendt_screen5.jpg" width="300">
+<img src="/screenshots/xtreme_fendt_screen6.jpg" width="300">
 
 ```
 All store items in this mod feature: 
