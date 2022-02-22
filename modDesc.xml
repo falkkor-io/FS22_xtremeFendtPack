@@ -99,7 +99,7 @@
             - info@falkkor.io 
             - https://falkkor.io]]></en>
     </description>
-    <iconFilename>store_xtremefendtpack.png</iconFilename>
+    <iconFilename>icon.dds</iconFilename>
     <multiplayer supported="true" />
     <storeItems>
         <storeItem xmlFilename="vehicles/favorit515CX.xml"/>
